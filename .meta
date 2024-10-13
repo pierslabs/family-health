@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "api": "git@github.com:pierslabs/family-health-api.git",
+    "family-health-fo": "git@github.com:pierslabs/family-health-fo.git"
+  }
+}
